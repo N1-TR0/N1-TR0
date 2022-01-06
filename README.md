@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/hErZm3GNej" target="blank"><img align="center"
-      src="https://media.macosicons.com/parse/files/macOSicons/5637ed389ce6d1efe99e2e8ddc646d08_low_res_Discord.png"
+      src="https://i.imgur.com/pBYu8AT.png"
       alt="Discord Server" height="30" width="40" /></a>
   <a href="https://www.instagram.com/thenitr0gamer/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
