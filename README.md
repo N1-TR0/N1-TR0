@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://i.gifer.com/43KV.gif" alt="Nitro" /></p>
+<p><img align="right" src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif" alt="Nitro" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
