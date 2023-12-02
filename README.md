@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitro</h1>
-<h3 align="center">Student at PT Richmond High School.</h3>
+<h3 align="center">Student at New Dorp High School.</h3>
 
 <br>
 
